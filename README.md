@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Aspiring Computer Science Engineer at Savitribai Phule Pune University<br>💻 Diploma holder in Computer Engineering<br>🚀 Passionate about Web & Android Development with hands-on experience in<br>C, C++, Java, Python, JavaScript, React, HTML & CSS<br><br>🌱 Continuously learning, building projects, and exploring modern technologies to create impactful software solutions.
+🎓 Aspiring Computer Science Engineer at Savitribai Phule Pune University<br>💻 Diploma holder in Computer Engineering<br>🚀 Passionate about Web(MERN) & Android Development with hands-on experience in<br>C, C++, Java, Python, JavaScript, React,Node.js,Express.js HTML & CSS<br><br>🌱 Continuously learning, building projects, and exploring modern technologies to create impactful software solutions.
 
 
 ## 🌐 Socials:
